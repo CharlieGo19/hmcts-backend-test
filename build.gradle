@@ -178,7 +178,7 @@ dependencies {
 mainClassName = 'uk.gov.hmcts.reform.dev.Application'
 
 bootJar {
-  archiveFileName = "test-backend.jar"
+  archiveFileName = "hmcts-backend-test.jar"
 
   manifest {
     attributes('Implementation-Version': project.version.toString())

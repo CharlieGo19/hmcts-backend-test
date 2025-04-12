@@ -7,7 +7,7 @@
       <ol type="A">
         <li>Title.</li>
         <li>Description (nullable).</li>
-        <li>Status [TBC].</li>
+        <li>Status [TBC].</li> 
         <li>Due date/time.</li>
       </ol>
   </li>
@@ -16,5 +16,5 @@
   <li>Update the status of a task.</li>
   <li>Delete a task.</li>
   <li>Data should be retrievable from a database (Postgres).</li>
-  <li>Containerise application.</li>
+  <li>Containerise application. ✅</li>
 </ol>
